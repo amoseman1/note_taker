@@ -19,7 +19,7 @@ npm i, and node server.js
 This is the deployed application [Note Taker] (https://stormy-spire-96425.herokuapp.com/notes)
 
 This is the screenshot:
-<img src="/application.png">
+<img src="Develop/application.png">
 
 ## Liscense
 
